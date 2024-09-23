@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs_online\\vs-ai-poc\\Emotion predict using watch_data\\watch_data_pedict\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B722DC-3394-4715-A1BD-71063E705218}|watch_data_pedict.pyproj|D:\\vs_online\\vs-ai-poc\\Emotion predict using watch_data\\watch_data_pedict\\classifier.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70B722DC-3394-4715-A1BD-71063E705218}|watch_data_pedict.pyproj|solutionrelative:classifier.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classifier.py",
+              "DocumentMoniker": "D:\\vs_online\\vs-ai-poc\\Emotion predict using watch_data\\watch_data_pedict\\classifier.py",
+              "RelativeDocumentMoniker": "classifier.py",
+              "ToolTip": "D:\\vs_online\\vs-ai-poc\\Emotion predict using watch_data\\watch_data_pedict\\classifier.py",
+              "RelativeToolTip": "classifier.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-22T14:27:01.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

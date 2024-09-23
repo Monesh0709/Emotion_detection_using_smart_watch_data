@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "watch_data_pedict", "watch_data_pedict.pyproj", "{DEAE88EA-9E3D-4562-8028-EE05F6724AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAE88EA-9E3D-4562-8028-EE05F6724AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAE88EA-9E3D-4562-8028-EE05F6724AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875A3A4E-A70F-49A2-9E89-C8475338EB55}
+	EndGlobalSection
+EndGlobal
